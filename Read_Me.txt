@@ -3,3 +3,5 @@
 3. Run Final.py file
 	- Update working directory
 	- Once Chrome opens after running the .py do not minimize or close
+	
+4. Copy the Web driver file to the directory
