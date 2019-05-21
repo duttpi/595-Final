@@ -1,5 +1,10 @@
 # 595-Final
 
+Attached 2 Reports:
+	- Report-Individual
+	- Report-Group
+
+Setup
 1. Install Chrome version (71-73)
 2. Update the text: 'user_id.txt' with facebook user_id and password
 3. Run Final.py file
