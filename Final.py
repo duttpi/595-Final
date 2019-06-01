@@ -1,12 +1,3 @@
-
-# Group Members
-# =============================================================================
-# 1. Dhruv Mehta
-# 2. Nitanshu Shrivastava
-# 3. Pikaso Dutta
-# 4. Shreyas Wattamwar
-# =============================================================================
-
 # Set Directory
 import os
 os.chdir('D:/Stevens/595/Mid-Term') 
